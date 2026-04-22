@@ -4,10 +4,14 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20iOS%20%7C%20Android-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/jun-young1993/ai_remote_vibe_agent_release)
 
-# 🚀 AI Remote Vibe Download Guide
+# 🚀 AI Remote Vibe
 
 AI Remote Vibe is distributed via GitHub Releases.  
 Follow the steps below to download and install the app.
+
+AI Remote Vibe is a remote control platform that allows you to connect your mobile device to a PC-based agent and interact with it in real time.
+
+With AI Remote Vibe, you can perform “vibe coding” — a more intuitive and fluid way of working with your development environment — without being physically in front of your computer.
 
 ---
 
