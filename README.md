@@ -24,7 +24,7 @@ Click the link below to access the latest version:
 ## 🖥️ 2. Download the App
 
 <p align="center">
-  <img src="image/welcome.png" width="70%" />
+  <img src="./image/welcome.png" width="70%" />
 </p>
 
 1. Scroll down the page  
