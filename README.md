@@ -4,6 +4,9 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20iOS%20%7C%20Android-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/jun-young1993/ai_remote_vibe_agent_release)
 
+
+# > ⚠️ **The mobile application is currently under review on the Android and Apple App Store. Please stay tuned — it will be available soon!**
+
 # 🚀 AI Remote Vibe
 
 AI Remote Vibe is distributed via GitHub Releases.  
